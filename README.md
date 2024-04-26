@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 # weight_calculator_onmars
-=======
-# weight_calculator_onmars
->>>>>>> 8659b8179a68e20d1c79260be45d06f608483110
+
+
+# This program is a simple rust program that uses the standard library to calculate the weight of someone in Mars
